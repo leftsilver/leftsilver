@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 김좌은 입니다!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=[닉네임/직무]&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김좌은&fontSize=70" />
 
 ### 👤 About Me
 * 💻 현재 **AISW**를 탐구하고 있습니다.
